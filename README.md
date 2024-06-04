@@ -1,1 +1,1 @@
-# patterns  in java program such as pyramids, butterfly etc.
+# Some basic and advance patterns such as pyramids, butterfly, daimond etc and some mathematical program
