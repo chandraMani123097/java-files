@@ -1,3 +1,4 @@
+//find element in 2d array.
 import java.util.Scanner;
 
 public class two_dim_arr {
